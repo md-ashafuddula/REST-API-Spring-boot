@@ -9,19 +9,20 @@
 
 [request] (http://localhost:8084/api/user)
 
-``{
+```{
     "id": 7,
     "name": "Tiger"
-}``
+}
+```
 
 **Response**
 
-``
+```
 {
     "id": 6,
     "name": "Tiger"
 }
-``
+```
 
 **Postman request-response**
 
@@ -30,12 +31,13 @@
 
 **Get data as JSON - Response**
 [request] (http://localhost:8084/api/user)
-``
+
+```
 {
     "id": 6,
     "name": "Tiger"
 }
-``
+```
 
 **Postman request for all entry-> response**
 
@@ -44,12 +46,13 @@
 
 **Get data as JSON - Response**
 [request] (http://localhost:8084/api/user/1)
-``
+
+```
 {
     "id": 6,
     "name": "Tiger"
 }
-``
+```
 
 **Postman request for single entry-> response**
 
