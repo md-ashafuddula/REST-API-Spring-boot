@@ -1,5 +1,10 @@
 # JAVA REST-API-Spring-boot
 
+**Full project structure**
+
+![Project Structure](https://user-images.githubusercontent.com/20375942/171577456-dfd11d8f-e732-4b70-b59f-19e6a3a21ca7.png)
+
+
 **Send data as JSON**
 
 [request] (http://localhost:8084/api/user)
