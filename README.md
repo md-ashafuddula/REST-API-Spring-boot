@@ -1,4 +1,4 @@
-# java REST-API-Spring-boot
+# JAVA REST-API-Spring-boot
 
 **Send data as JSON**
 
