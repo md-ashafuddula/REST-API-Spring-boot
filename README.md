@@ -20,7 +20,8 @@
 
 **Postman request-response**
 
-![POST method](https://user-images.githubusercontent.com/20375942/171572430-6148bb84-e0fd-4938-9b43-42753c82c45c.png)
+![POST method](https://user-images.githubusercontent.com/20375942/171575689-31cfe084-8d0d-4f46-8726-4447eeff1f93.png)
+
 
 **Get data as JSON - Response**
 [request] (http://localhost:8084/api/user)
@@ -34,6 +35,7 @@
 **Postman request for all entry-> response**
 
 ![Get method](https://user-images.githubusercontent.com/20375942/171573779-e5b18094-e574-4ac8-af10-3ea451dfc5fa.png)
+
 
 **Get data as JSON - Response**
 [request] (http://localhost:8084/api/user/1)
