@@ -7,7 +7,7 @@
 
 **Send data as JSON**
 
-[request] (http://localhost:8084/api/user)
+[Request] (http://localhost:8084/api/user)
 
 ```{
     "id": 7,
@@ -30,7 +30,7 @@
 
 
 **Get data as JSON - Response**
-[request] (http://localhost:8084/api/user)
+[Request] (http://localhost:8084/api/user)
 
 ```
 {
@@ -45,7 +45,7 @@
 
 
 **Get data as JSON - Response**
-[request] (http://localhost:8084/api/user/1)
+[Request] (http://localhost:8084/api/user/1)
 
 ```
 {
