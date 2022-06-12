@@ -9,7 +9,8 @@
 
 [Request] (http://localhost:8084/api/user)
 
-```{
+```
+{
     "id": 7,
     "name": "Tiger"
 }
